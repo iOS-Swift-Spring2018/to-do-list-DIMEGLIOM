@@ -9,7 +9,7 @@
 import UIKit
 
 var toDoList = [String]()
-var notes = [String]() 
+var notes = [String]()  
 
 class SecondViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
 
